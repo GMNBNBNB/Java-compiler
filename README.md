@@ -1,8 +1,9 @@
+# Description
 This Compiler is a lightweight compiler written in Java. 
 It is designed to provide a simple and easy-to-use compiler framework for beginners and developers to help understand the compiler infrastructure and workflow. 
 This project implements basic syntax parsing and code generation functions, which is suitable for teaching and experimental purposes.
 
-Feature:    
+## Feature:    
 Supports basic syntax parsing    
 Syntax error detection    
 Generate intermediate code    
